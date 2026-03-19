@@ -1,0 +1,25 @@
+{
+  "short_name": "Covisource",
+  "name": "Covisource App",
+  "icons": [
+    {
+      "src": "Covid_Symptom_Study_App_icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "Covid_Symptom_Study_App_icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Covid_Symptom_Study_App_icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

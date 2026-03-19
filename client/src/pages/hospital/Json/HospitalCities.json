@@ -1,0 +1,32 @@
+[
+    {
+        "state": "New York",
+        "cities": [
+            "New York City", "Buffalo", "Rochester", "Yonkers", "Syracuse"
+        ]
+    },
+    {
+        "state": "California",
+        "cities": [
+            "Los Angeles", "San Francisco", "San Diego", "Sacramento", "San Jose"
+        ]
+    },
+    {
+        "state": "Texas",
+        "cities": [
+            "Houston", "San Antonio", "Dallas", "Austin", "Fort Worth"
+        ]
+    },
+    {
+        "state": "Florida",
+        "cities": [
+            "Jacksonville", "Miami", "Tampa", "Orlando", "St. Petersburg"
+        ]
+    },
+    {
+        "state": "Illinois",
+        "cities": [
+            "Chicago", "Aurora", "Rockford", "Joliet", "Naperville"
+        ]
+    }
+]
